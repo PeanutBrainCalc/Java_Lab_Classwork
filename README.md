@@ -2,7 +2,7 @@
 Contains the worksheets and code for the programs performed as classwork in JAVA Lab
 - Each pair of Worksheet and Code is placed in its own file named as WS1, WS2 etc.
 - Worksheets as pdfs named in with acronyms WS1An WS2An...
-- Codes as CodeWS1, CodeWS2... (each having extention as a.java files)
+- Codes as CodeWS1, CodeWS2... (each having extention as a. java files)
 
 
 ## Debugging Tips
