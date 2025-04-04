@@ -1,4 +1,4 @@
-# Java_Lab_Classwork
+# 22BCS16052_Java_Lab_Classwork
 Contains the worksheets and code for the programs performed as classwork in JAVA Lab
 - Each pair of Worksheet and Code is placed in its own file named as WS1, WS2 etc.
 - Worksheets as pdfs named in with acronyms WS1An WS2An...
